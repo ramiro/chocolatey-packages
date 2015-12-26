@@ -3,17 +3,21 @@
   <metadata>
     <id>hack</id>
     <version>2.018</version>
-    <title>Hack</title>
+    <title>A typeface designed for source code</title>
     <authors>Chris Simpkins</authors>
     <owners>cramm</owners>
     <licenseUrl>https://github.com/chrissimpkins/Hack/blob/master/LICENSE.md</licenseUrl>
     <projectUrl>http://sourcefoundry.org/hack/</projectUrl>
+    <projectSourceUrl>https://github.com/chrissimpkins/Hack</projectSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>A typeface designed for source code.
-
+    <summary>A typeface designed for source code</summary>
+    <description>
         Designed for the screen. Open source. Libre.
 
-        No frills. No gimmicks. Hack is hand groomed and optically balanced to be your go-to code face.</description>
+        No frills. No gimmicks. Hack is hand groomed and optically balanced to be your go-to code face.
+    </description>
     <tags>font monospace hack mono fixedWidth fixed code editor programming ide programmer</tags>
+    <releaseNotes>https://github.com/chrissimpkins/Hack/blob/master/CHANGELOG.md</releaseNotes>
+    <packageSourceUrl>https://github.com/ramiro/chocolatey-packages/blob/master/hack.nuspec</packageSourceUrl>
   </metadata>
 </package>
